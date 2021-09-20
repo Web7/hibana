@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'imperial_urw_wideregular';
+	src: url('../fonts/imperialurwwid-regular.eot');
+	src: url('../fonts/imperialurwwid-regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/imperialurwwid-regular.woff') format('woff'),
+	url('../fonts/imperialurwwid-regular.ttf') format('truetype'),
+	url('../fonts/imperialurwwid-regular.svg#imperial_urw_wideregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
